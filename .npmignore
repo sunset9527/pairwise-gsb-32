@@ -1,0 +1,10 @@
+.editorconfig
+package-lock.json
+coverage
+test
+benchmark
+.idea
+.github
+rome.json
+scripts
+test_interop
