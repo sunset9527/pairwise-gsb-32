@@ -23,7 +23,7 @@
   "devDependencies": {
     "@aws-sdk/querystring-builder": "^3.370.0",
     "@aws-sdk/querystring-parser": "^3.370.0",
-    "@biomejs/biome": "1.8.3",
+    "@biomejs/biome": "2.5.14",
     "@edge-runtime/vm": "^4.0.0",
     "@types/node": "^20.14.10",
     "@vitest/coverage-v8": "^2.0.1",
