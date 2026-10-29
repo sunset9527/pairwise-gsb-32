@@ -33,7 +33,7 @@
     "http-querystring-stringify": "^2.1.0",
     "jsdom": "^24.1.0",
     "qs": "^6.12.3",
-    "query-string": "^9.0.0",
+    "query-string": "^10.0.0",
     "querystringify": "^2.2.0",
     "querystringify-ts": "^0.1.5",
     "querystringparser": "^0.1.1",
